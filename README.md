@@ -1,5 +1,7 @@
 test-repo
 =========
-Heading
 ## Heading
 ###Heading
+* First item
+* Second item
+* Third item
